@@ -7,3 +7,4 @@ Today lots of farmers are facing problem from roaming animals around farm who ru
 
 #refernces:
 [basic](https://www.kencove.com/fence/97_How+an+Electric+Fence+Works_resource.php)
+[circuit concept](https://www.youtube.com/watch?v=BJCSfamaO-w)
